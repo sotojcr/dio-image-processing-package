@@ -23,7 +23,8 @@ pip install image-processing-juan
 ```
 
 ## Author
-Juan, version from Karina Kato
+Juan, version from Karina Kato,fork de Vinicius Antunes
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
